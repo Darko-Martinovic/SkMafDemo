@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SkMafDemo.AgentFramework/SkMafDemo.AgentFramework.csproj" />
+    <Project Path="src/SkMafDemo.Console/SkMafDemo.Console.csproj" />
+    <Project Path="src/SkMafDemo.Core/SkMafDemo.Core.csproj" />
+    <Project Path="src/SkMafDemo.SemanticKernel/SkMafDemo.SemanticKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SkMafDemo.Core.Tests/SkMafDemo.Core.Tests.csproj" />
+  </Folder>
+</Solution>

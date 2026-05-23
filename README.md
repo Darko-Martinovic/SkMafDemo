@@ -125,3 +125,7 @@ The brief pinned approximate versions; the project was built against the latest 
 - [x] `dotnet test` passes (16 tests); every Core tool has at least one test.
 - [x] README documents provider setup, run command, and the menu-to-concept mapping.
 - [x] No secrets committed (`user-secrets` only).
+
+## Continuous integration
+
+Claude Code GitHub Actions are configured for this repo: opened/updated PRs receive an automated review, and `@claude` mentions in issues or PR comments are answered by Claude.
